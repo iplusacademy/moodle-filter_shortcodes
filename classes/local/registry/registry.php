@@ -47,7 +47,7 @@ interface registry {
      * Get a handler.
      *
      * The handler is an object confirming to the result of
-     * {@link filter_shortcodes_handler_from_definition}, or null.
+     * filter_shortcodes_handler_from_definition, or null.
      *
      * @param string $shortcode The shortcode.
      * @return object|null
